@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,500&family=Rubik&display=swap');
+
+body {
+    background-color: rgb(23, 23, 27);
+
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+.card {
+    width: 360px;
+    margin: 30px auto;
+    background-color: rgb(38, 38, 38);
+    box-shadow: 0 5px 0
+    rgb(30, 30, 30);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.card-3 {
+    width: 300px;
+    margin: 30px auto;
+    background-color: rgb(38, 38, 38);
+    box-shadow: 0 5px 0
+    rgb(30, 30, 30);
+    border-radius: 5px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.card-2 {
+    width: 150px;
+    height: 70px;
+    margin: 30px auto;
+    background-color: rgb(38, 38, 38);
+    box-shadow: 0 5px 0
+    rgb(30, 30, 30);
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.card-logo {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 5px 0
+    rgb(38, 38, 38);
+    transition: all 0.5s;
+    width: 170px;
+    height: 175px;
+}
+
+.card-title {
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    transition: all 0.5s;
+}
+
+.card-logo:hover {
+    width: 180px;
+    height: 185px;
+    box-shadow: 0 7px 0
+    rgb(30, 30, 30);
+}
+
+.card-shd {
+    box-shadow: 0 5px 0
+    rgb(18, 18, 18);
+}
+
+.card-discord {
+    max-width: 60px;
+    transition: all 0.5s;
+}
+.card-git {
+    padding-bottom: 10px;
+    max-width: 60px;
+    transition: all 0.5s;
+}
+
+.card-git:hover {
+    max-width: 67px;
+}
+
+.card-discord:hover {
+    max-width: 67px;
+}
+
+.card-title:hover {
+    color: rgb(253, 173, 0);
+    font-size: 18px;
+}
+
+.usatiy {
+    margin: 0 auto;
+    width: 60px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.jaw {
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+
+.jaw:hover {
+    font-size: 20px;
+    color: rgb(253, 173, 0);
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex {
+    display: flex;
+}
+
+.jaw1 {
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.5s;
+}
+
+.jaw1:hover {
+    font-size: 16.2px;
+    color: rgb(253, 173, 0);
+}
